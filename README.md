@@ -33,10 +33,21 @@ This is a website for an artist to sell their artwork under the name "Paper Drea
 9. To understand how my personal information will be used. 
  
 
-#### Emotional Factors
+### Emotional Factors
 It is the artist's hope that her artworks will help site visitors reimagine their surroundings. The site should be easy and intutive to navigate so as not to detract from the works themselves. An attractive website will add to the value of the work as the same care as creating the art will go into the presentation of it via the website. Even if the customer is not ready to buy, it is the hope of the site owner that the customer will like the experience of the site so much that they will return repeatedly to look and browse.  
 
 The reviews page is also meant to be something of a community page where customers can leave their thoughts about their purchases and also upload photos to show how they are displaying the product at home or in their workplace. The idea is that it will inspire prospective customers, and encourage conversation. 
+
+### User Stories
+
+CAN I LINK TO MY BOARD ON GITHUB?
+
+### SEO
+
+
+### Web Marketing
+
+
 
 ## The Scope Plane
 
@@ -168,16 +179,53 @@ As this is an e-commerce site, the major objective is to sell artworks. The cust
 
 ## The Surface Plane
 
-### Fonts
+### Branding
+#### Fonts
 As many of the items on the site are fun and aim to add a bit of spice and fun into people's environment, the site user wanted a font that reflected this. The site name/logo will uses Henny Penny, 
 ![Font Pairing](docs/website/fontPairing.JPG)
 
+#### Colour palette
+### Interaction
+### Accessibility
+
+
 ## Technologies and resources
 
-### Resources
+Planning and resources
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 - Lucid Charts
+- Balsamiq Wireframes
 
-### Technologies
+Fonts and Icons
 - [Google Fonts](https://fonts.google.com/)
 - [Font Pairing, by Our Own Thing](http://www.ourownthing.co.uk/fontpairing/)
+- Favicon.io
+- Font Awesome
+
+Images
+- Cloud convert
+
+Version Control and editor
+- GitHub
+- GitPod
+
+Languages
+- HTML
+- CSS
+- Bootstrap
+- Javascript
+- Python
+- Django
+    - Crispy Forms
+    - Pillow
+
+Deployment resources
+- Heroku
+- ElephantSQL
+
+Language Validators and format helpers
+- W3C Markup Validation Service
+- W3C CSS Validation Service
+- JSHint
+- CI Python Linter
+- autopep8
