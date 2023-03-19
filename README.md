@@ -4,6 +4,128 @@ This is a website for a fiction company called, "Paper Dreams," Code Institute P
 
 ## Table of Contents
 
+### Marketing Strategy
+The site owner is not interested in joining Etsy as she feels the platform is too crowded, and there is some suggestion it has declined. [TechPenny blames Etsy's algorithms](https://techpenny.com/typical-etsy-demographics-stats/) and the amount of time customers must spend on the platform only to get frustrated and leave after they don't find what they are looking form. By contrast, [Statista.com](https://www.statista.com/statistics/409375/etsy-active-buyers/) reported an 18% increase in sales. Reuter's reports Etsy has suffered related to [SVBs collapse with resulting delays processing sellers' payments](https://www.reuters.com/markets/etsy-other-e-commerce-companies-feel-squeeze-svb-collapse-2023-03-13/), with some sellers complaining Etsy lacked transparency. Notwithstanding these reports on the Etsy platform itself, there is a clear interest by consumers in handcrafted items created by small businesses. 
+
+#### Understanding the audience
+
+Paper Dreams' audience is matches the Etsy Community whose audience is described as largely females between the ages of 18-35. Etsy estimates 86% of their buyers are female. Like Etsy, the site owner expects the audience to be young, female and interested in unique, original items with vibrant colour palettes. [Etsy describes the buyer's behaviour and trends](https://www.etsy.com/seller-handbook/article/marketplace-insights-emerging-etsy-buyer/811544572163) of which the following apply to Paper Dreams:
+
+1. They want to support small businesses. They use the hashtag #StandWithSmall. The site could also make use of this hashtag. [Statusbrew](https://statusbrew.com/insights/small-business-hashtags/) lists some top trending small business hashtags.  [Top-Hashtags](https://top-hashtags.com/hashtag/smallbusiness/) offers  some useful ideas, moving away from the specific art scene to other interest areas of potential customers, such as #womanownedbusiness, #newbusiness, #supportsmallshops, #handcraftedgifts, #handmadecrafts, and  #handcrafted"add item". 
+
+2. They want to make their homes more stylish with unique bright items. 
+
+3. The are interested in projects they can do from home. (Relates to tutorials/learn page)
+
+4. The are looking for unique gifts for various occasions. 
+
+For the purpose of this marketing strategy, we want to think about our customer in narrow terms in order to be able to create useful keywords for the site and and overall marketing strategy. 
+
+    - Age: broadly 20-35
+    - Gender: identifying as female
+    - Online hangouts: 
+        - Most likely Instagram users
+        - Likey to check accounts through the day, but most likely present in the evenings
+    - Interests: 
+        - Social responsibility
+        - Sustainability
+        - Enjoys browsing and shopping online
+        - Listens to podcasts related to fashion, exercise, entrepreneurship, freelancing, cookery, health, lifestyle, goal-setting, mindfulness, and general well being
+        - Reads blogs
+        - Spending power
+            - Likely to rent 
+            - Decent income, but need to save and pay back loans
+            - Likely to have a social life (no kids yet)
+            - Up and coming in their careers, but will suffer if they become mothers.
+        - Frustrations
+            - Getting on the housing ladder
+            - Progressing in career
+            - Burnout at  work/instability in careers.
+            - Lack of childcare options, if mothers
+
+#### Marketing Goals
+#### Brand
+#### Valuable Content
+#### Social Media
+#### Email Marketing
+#### SEO & Analytic
+
+USE WORDTRACKER.COM FREE TRIAL!!!!!!!!!!!!!
+
+1. Keyword Search
+
+    - General for site
+        - Short-tail: sustainable crafts, handmade  masks, handcrafted gifts, handmade gifts, unique interiors, unique decorations, affordable art
+        - Long-tail: unique sustainable gifts, handmade by Surrey artist, fun decorations to brighten the home, gifts to lift your spirits, one-of-a-kind affordable artworks
+    - Papier mache masks:
+        - Short-tail keywords: papier mache masks, masks for sale, handcrafted masks, 
+        - Long-tail keywords: handcrafted papier mache masks, unique papier mache masks, papier mache masks for Halloween
+    - Papier mache figures and animals:
+        - Short-tail keywords: whimsical art, quirky art, decorative animals, colorful art, 3d art, wacky figurines, unique sculptures
+        - Long-tail keywords: handcrafted papier mache animals, handmade children's room decor, fun decorations for children's rooms, one-of-a-kind sculptures
+    - Pen & ink prints:
+        - Short-tail keywords: pen and ink prints, prints for sale
+        - Long-tail keywords: black and white pen and ink prints, pen and ink abstract prints, pen and ink art prints, abstract art therapy
+    - Paintings:
+        - Short-tail keywords: paintings for sale, art paintings
+        - Long-tail keywords: watercolour paintings for sale, abstract mixed media paintings for sale, modern art paintings
+    - Tutorials:
+        - Short-tails keywords: mask tutorial, papier mache tutorial
+        - Long-tail keywords: how to make a bespoke mask, mould-making tips for mask-making, choosing the right paper for your papier mache project, inexpensive art projects to do at home, cheap things to do with kids, cool projects to make with paper and glue
+
+2. On page optimization
+
+    **Home page**
+    - Page titles
+    - Meta descriptions
+    - Headers
+    - Content
+
+    If this were a genuine business, it would make sense for the artist to use her name as the domain name and then change the site title to Paper Dreams by "Artist Name".
+
+    
+    **Products page**
+    - Page titles
+    - Meta descriptions
+    - Headers
+    - Content
+
+    **Events page**
+    - Page titles
+    - Meta descriptions
+    - Headers
+    - Content
+    
+    **Learn page**
+    - Page titles
+    - Meta descriptions
+    - Headers
+    - Content
+    
+    **Learn page**
+    - Page titles
+    - Meta descriptions
+    - Headers
+    - Content
+
+3. Off-page optimization
+
+    If this  were a real site, the business should seek to engage with other artists and website owners by writing guest blogs, or by asking them to link to this site for its resources (the tutorials blog), events or by reviewing our site and art works. An obvious place to start would be papiermache.co.uk which is a platfrom for papier mache artists. By posting there regularly, you quickly become part of a community and if you post projects there, your project will be the first or one of the first visitors to the site will see. Many of these artists have their own websites and community connections and are generous with help and advice.
+
+4. Technical optimization
+
+    - Page loads fast
+    - Mobile friendly
+    - Easy to navigate
+
+5. Content
+
+    - Text is highly relevant to page purpose. No superflous text.
+    - Non commercial content aims to retain visitors/create repeat visitors
+
+6. Google Analytics 
+
+####
 
 ## Website Design
 ### The Strategy Plane
@@ -41,12 +163,6 @@ The reviews page is also meant to be something of a community page where custome
 ### User Stories
 
 CAN I LINK TO MY BOARD ON GITHUB?
-
-### SEO
-
-
-### Web Marketing
-
 
 
 ## The Scope Plane
@@ -218,6 +334,10 @@ Languages
 - Django
     - Crispy Forms
     - Pillow
+
+SEO/Site maps
+- [Online sitemap generator](https://www.xml-sitemaps.com/)
+- [Wordtracker](https://www.wordtracker.com/) - USER FREE TRIAL!
 
 Deployment resources
 - Heroku
